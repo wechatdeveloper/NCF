@@ -1,0 +1,256 @@
+[[[系统日志]]]
+[2021/06/30 18:58:05.7110]
+[线程：1]
+NeuCharFramework 系统启动
+
+[[[自动注册扩展缓存完成]]]
+[2021/06/30 18:58:05.7138]
+[线程：1]
+注册总用时：0.005ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2021/06/30 18:58:05.7961]
+[线程：1]
+微信扩展缓存注册总用时：0.0975ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7277]
+[线程：1]
+Senparc.Core.Models.AdminUserInfoConfigurationMapping
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7341]
+[线程：1]
+Senparc.Core.Models.FeedbackConfigurationMapping
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7369]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.SysButton, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7463]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.SystemConfig, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7472]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Core.Models.FeedBack, Senparc.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7478]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.Account, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7482]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.PointsLog, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7556]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.SysMenu, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7561]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.TenantInfo, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7564]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.SysRoleAdminUserInfo, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7567]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.XncfModule, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7571]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.AccountPayLog, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7574]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.SysRole, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7583]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Core.Models.AdminUserInfo, Senparc.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7586]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.SysPermission, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7591]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.DatabaseToolkit.DbConfig, Senparc.Xncf.DatabaseToolkit, Version=0.10.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7623]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.WeixinManager.Models.UserTag_WeixinUser, Senparc.Xncf.WeixinManager, Version=0.6.362.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7625]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.WeixinManager.Models.MpAccount, Senparc.Xncf.WeixinManager, Version=0.6.362.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7626]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.WeixinManager.Models.WeixinUser, Senparc.Xncf.WeixinManager, Version=0.6.362.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7627]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.WeixinManager.Models.UserTag, Senparc.Xncf.WeixinManager, Version=0.6.362.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:06.7628]
+[线程：1]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.XncfBuilder.Config, Senparc.Xncf.XncfBuilder, Version=0.8.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[SenparcEntities 数据库实体注入]]]
+[2021/06/30 18:58:06.7672]
+[线程：1]
+耗时：47.543ms
+
+[[[BaseException]]]
+[2021/06/30 18:58:06.8081]
+[线程：1]
+	NcfUninstallException
+	Message：TriedMatching 为 false，推测系统未进行安装
+	StackTrace：
+
+[[[Senparc.Xncf.WeixinManager 搜索 MessageHandler]]]
+[2021/06/30 18:58:06.9951]
+[线程：1]
+搜索到 0 个
+
+[[[微信扩展缓存注册完成]]]
+[2021/06/30 18:58:07.0633]
+[线程：1]
+微信扩展缓存注册总用时：0.0094ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8919]
+[线程：11]
+Senparc.Core.Models.AdminUserInfoConfigurationMapping
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8925]
+[线程：11]
+Senparc.Core.Models.FeedbackConfigurationMapping
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8927]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.SysButton, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8927]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.SystemConfig, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8927]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Core.Models.FeedBack, Senparc.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8927]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.Account, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8927]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.PointsLog, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8928]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.SysMenu, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8928]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.TenantInfo, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8928]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.SysRoleAdminUserInfo, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8928]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.XncfModule, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8928]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.AccountPayLog, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8928]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.SysRole, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8928]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Core.Models.AdminUserInfo, Senparc.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8928]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Ncf.Core.Models.DataBaseModel.SysPermission, Senparc.Ncf.Core, Version=0.6.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8929]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.DatabaseToolkit.DbConfig, Senparc.Xncf.DatabaseToolkit, Version=0.10.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8944]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.WeixinManager.Models.UserTag_WeixinUser, Senparc.Xncf.WeixinManager, Version=0.6.362.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8945]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.WeixinManager.Models.MpAccount, Senparc.Xncf.WeixinManager, Version=0.6.362.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8945]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.WeixinManager.Models.WeixinUser, Senparc.Xncf.WeixinManager, Version=0.6.362.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8946]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.WeixinManager.Models.UserTag, Senparc.Xncf.WeixinManager, Version=0.6.362.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[监测到 ApplyAllAutoConfigurationMapping 执行]]]
+[2021/06/30 18:58:09.8946]
+[线程：11]
+Senparc.Ncf.Core.Models.DataBaseModel.BlankEntityTypeConfiguration`1[[Senparc.Xncf.XncfBuilder.Config, Senparc.Xncf.XncfBuilder, Version=0.8.128.0, Culture=neutral, PublicKeyToken=null]]
+
+[[[SenparcEntities 数据库实体注入]]]
+[2021/06/30 18:58:09.8964]
+[线程：11]
+耗时：4.7232ms
+
