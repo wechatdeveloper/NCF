@@ -22,7 +22,6 @@ obj/
 /src/backend/Senparc.Database/Senparc.Database.jfm
 /src/backend/Senparc.Web/App_Data/logs/*
 /src/backend/NCF.sln-backup-*.sln
-/src/backend/netstandard2.1
 /src/backend/Senparc.Xncf.XncfBuilder.Template.*
 /src/backend/Senparc.Web.DatabasePlant/App_Data/SenparcTraceLog
 /src/backend/published
